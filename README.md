@@ -1,3 +1,7 @@
+# Auteur 
+Pierre Louis 23317 \
+Scaife Niall 22272
+
 # Rapport sur la Simulation d'un Écosystème
 
 Ce document présente :
